@@ -1,0 +1,87 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 10;
+}
+body {
+    background-image: url("ice creams.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background: size: 3px;
+    }
+
+h2 {
+    font-size: 5rem;
+    margin-bottom: 5rem;
+    background-color:rgb(242, 241, 236);
+}
+
+h3 {
+    font-size: 1.5rem;
+    margin-bottom: 5rem;
+}
+
+a {
+    color: #e31515;
+    text-decoration: none;
+}
+
+/* Navigation */
+nav {
+    background-color: #f7f7f7;
+}
+
+nav ul {
+    margin: 500;
+    padding: 0;
+    list-style-type: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+nav li:last-child {
+    margin-right: 0;
+}
+
+nav a {
+    display: block;
+    padding: 1rem;
+}
+
+nav a:hover {
+    background-color: #eaa1a1;
+}
+
+
+.hero {
+   
+}
+
+.hero h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    color:#cd6858;
+}
+
+.hero p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    color:#936639:
+    
+}
+footer {
+    background-color: pink;
+    padding: 1.5rem;
+    position: absolute;
+    bottom: 0;
+    width: 95%;
+    text-align: center;
+    font-family:monospace ;
+  }
+  
+
+
+
